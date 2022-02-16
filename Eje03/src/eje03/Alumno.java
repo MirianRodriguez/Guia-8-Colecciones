@@ -63,8 +63,5 @@ public class Alumno {
     public String toString() {
         return "Alumno{" + "nombre=" + nombre + '}';
     }
-    
-    
-    
-    
+  
 }
